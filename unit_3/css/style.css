@@ -4,7 +4,7 @@ html {background: url(http://www.photographyblogger.net/wp-content/uploads/2013/
   		
 }
 h1,h2{
-	font-family: Plantin;
+	font-family: "Proxima Nova";
 	color: #8B4513;
 	text-align: center
 }
@@ -12,14 +12,15 @@ h1{
   	font-size: 72px
 }
 h2{
-  	font-size: 60px;
+  	font-size: 52px;
     font-style: italic}
  
 
 h3{
   	font-family: Plantin;
   	text-align: center;
-  	color: #949494
+  	font-size: 32px;
+  	color: #444444
 }
 a href{
   	text-align: center}
