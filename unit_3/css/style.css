@@ -1,0 +1,25 @@
+
+html {background: url(http://www.photographyblogger.net/wp-content/uploads/2013/04/Thread11.jpg); 
+		background-size: cover;
+  		
+}
+h1,h2{
+	font-family: Plantin;
+	color: #8B4513;
+	text-align: center
+}
+h1{
+  	font-size: 72px
+}
+h2{
+  	font-size: 36px
+    font-style: italic}
+ 
+
+h3{
+  	font-family: Plantin;
+  	text-align: center;
+  	color: #3a3a3
+}
+a href{
+  	text-align: center}
