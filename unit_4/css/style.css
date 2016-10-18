@@ -12,8 +12,8 @@ h1,h2{
 }
 h1{
 	font-family:'Cinzel', serif;
-  	font-size: 86px;
-  	letter-spacing: 1px;
+  	font-size: 80px;
+  	letter-spacing: 4px;
   	margin-bottom: 5px
 }
 h2{
@@ -32,3 +32,9 @@ h3{
 }
 a href{
   	text-align: center}
+ 
+ footer{
+ 	position:fixed;
+ 	left:50%;
+ 	bottom:0%;
+ }
