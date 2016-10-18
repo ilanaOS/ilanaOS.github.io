@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Cantarell:400i|Open+Sans');
+@import url('https://fonts.googleapis.com/css?family=Cantarell:400i|Cinzel:900|Martel:900|Open+Sans');
 
 html {background: url(http://www.photographyblogger.net/wp-content/uploads/2013/04/Thread11.jpg); 
 		background-size: cover;
@@ -11,8 +11,8 @@ h1,h2{
 	text-align: center
 }
 h1{
-	font-family:'Open Sans', sans-serif;
-  	font-size: 72px
+	font-family:'Cinzel', serif;;
+  	font-size: 78px
 }
 h2{
 	font-family:'Cantarell', sans-serif;
