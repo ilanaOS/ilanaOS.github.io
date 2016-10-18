@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css?family=Cherry+Swash|Open+Sans:700|Play');
+html {background: url(http://www.photographyblogger.net/wp-content/uploads/2013/04/Thread11.jpg); 
+		background-size: cover;
+		background-repeat: no-repeat;
+  		
+}
+h1,h2{
+	
+	color: #8B4513;
+	text-align: center
+}
+h1{
+	font-family:'Open Sans', sans-serif;
+  	font-size: 72px
+}
+h2{
+	font-family: 'Cherry Swash', cursive
+  	font-size: 52px;
+    font-style: italic}
+ 
+
+h3{
+  	font-family: Plantin;
+  	text-align: center;
+  	font-size: 32px;
+  	color: #444444
+}
+a href{
+  	text-align: center}
