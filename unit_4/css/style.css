@@ -14,6 +14,7 @@ h1{
 	font-family:'Cinzel', serif;
   	font-size: 80px;
   	letter-spacing: 2px;
+  	letter-he
   	margin-bottom: 0px
 }
 h2{
@@ -29,7 +30,9 @@ h3{
   	font-family: Plantin;
   	text-align: center;
   	font-size: 32px;
-  	color: #444444
+  	color: #444444;
+  	margin-top: ;
+
 }
 a href{
   	text-align: center}
@@ -37,5 +40,5 @@ a href{
  footer{
  	position:fixed;
  	left:50%;
- 	bottom:0%;
+ 	bottom:2%;
  }
