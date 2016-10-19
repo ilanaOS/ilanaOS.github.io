@@ -25,20 +25,15 @@ h2{
     letter-spacing: 6px
 }
  
-
-h3{
-  	font-family: Plantin;
-  	text-align: center;
-  	font-size: 32px;
-  	color: #444444;
-  	margin-top: ;
-
-}
 a href{
   	text-align: center}
  
  footer{
  	position:fixed;
  	left:50%;
- 	bottom:20%;
+ 	bottom:22%;
+ 	font-family: Plantin;
+  	text-align: center;
+  	font-size: 32px;
+  	color: #444444;
  }
