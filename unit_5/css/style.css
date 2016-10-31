@@ -27,9 +27,9 @@ nav{position:fixed;
 	background-color: #4298f4;
 	color:#42f4d7;
 	text-align: center;
-	width: 150px;
-	height: 150px;
-	margin: 4em 2em 6em 2em;
+	width: 300px;
+	height: 300px;
+	margin: 150px 150px 200px 150px;
 	float: left;
 }
 
@@ -38,9 +38,9 @@ nav{position:fixed;
 	color:#425ff4;
 	text-align: center;
 	float:left;
-	width: 150px;
-	height: 150px;
-	margin: 4em 2em 6em 2em;
+	width: 300px;
+	height: 300px;
+	margin: 150px 150px 200px 150px;
 }
 
 .boxthree{
@@ -48,9 +48,9 @@ nav{position:fixed;
 	color: #1f08b2;
 	text-align:center;
 	float: left;
-	width: 150px;
-	height: 150px;
-	margin: 4em 2em 6em 2em;
+    width: 300px;
+	height: 300px;
+	margin: 150px 150px 200px 150px;
 }
 a href{
   	text-align: center;}
