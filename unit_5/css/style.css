@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Cantarell:400i|Cinzel:900|Martel:900|Open+Sans');
+@import url('https://fonts.googleapis.com/css?family=Cantarell:400i|Cinzel:900|Roboto:400|Open+Sans');
 html{background-color: #c6f2ff
 ;}
 header{text-align: left;
@@ -26,7 +26,7 @@ nav{position:fixed;
 	background: cover; 
 	margin:auto;
 	width: 100%;
-	font-family: Martel;
+	font-family: Roboto;
 }
 
 .boxone{
