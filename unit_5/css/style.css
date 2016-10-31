@@ -21,8 +21,9 @@ h2{
     letter-spacing: 6px;
 }
 nav{position:fixed;
-	background; background: url(http://www.photographyblogger.net/wp-content/uploads/2013/04/Thread11.jpg);
- }
+	background: url(http://www.photographyblogger.net/wp-content/uploads/2013/04/Thread11.jpg);
+	background: cover; 
+}
 
 .boxone{
 	background-color: #4298f4;
