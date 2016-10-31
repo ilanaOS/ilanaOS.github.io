@@ -20,7 +20,7 @@ h2{
     margin-top: 0px;
     letter-spacing: 6px;
 }
-nav{
+nav{position:relative;
 	background: url(http://www.photographyblogger.net/wp-content/uploads/2013/04/Thread11.jpg);
 	background: cover; 
 }
