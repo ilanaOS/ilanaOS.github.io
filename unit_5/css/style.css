@@ -1,7 +1,8 @@
-@import url('https://fonts.googleapis.com/css?family=Cantarell|Cinzel|Roboto');
-html{background-color: #c6f2ff;}
+@import url('https://fonts.googleapis.com/css?family=Cantarell:400i|Cinzel:900|Martel:900|Open+Sans');
+html{background-color: #c6f2ff
+;}
 header{text-align: left;
-	font-family:'Cinzel', serif, bold;
+	font-family:'Cinzel', serif;
   	font-size: 80px;
   	letter-spacing: 2.5px;
   	margin-bottom:5px;
@@ -25,7 +26,7 @@ nav{position:fixed;
 	background: cover; 
 	margin:auto;
 	width: 100%;
-	font-family:'Roboto';
+	font-family: Martel;
 }
 
 .boxone{
