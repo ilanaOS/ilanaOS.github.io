@@ -23,7 +23,6 @@ h2{
 nav{position:fixed;
 	background: url(http://www.photographyblogger.net/wp-content/uploads/2013/04/Thread11.jpg);
 	background: cover; 
-	background-repeat: no-repeat;
 	margin:auto;
 	width: 100%;
 }
@@ -31,9 +30,11 @@ nav{position:fixed;
 .boxone{
 	background-color: #4298f4;
 	color:#42f4d7;
+	font-size: 20px
 	text-align: center;
 	width: 200px;
 	height: 150px;
+	padding: 50%;
 	margin: 4em 2em 6em 2em;
 	float: left;
 }
