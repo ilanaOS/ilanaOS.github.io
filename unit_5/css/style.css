@@ -19,7 +19,10 @@ h2{
     margin-top: 0px;
     letter-spacing: 6px;
 }
-nav{horizontal-align: center;}
+nav{position:fixed;
+ 	left:50%;
+ }
+
 .boxone{
 	background-color: #4298f4;
 	color:#42f4d7;
