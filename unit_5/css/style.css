@@ -8,7 +8,7 @@ header{text-align: left;
   	color: #8B4513;
 }
 
-.banner{background: url(http://www.photographyblogger.net/wp-content/uploads/2013/04/Thread11.jpg)
+.banner{background: url(http://www.photographyblogger.net/wp-content/uploads/2013/04/Thread11.jpg);
 background-color:#42f4d7;}
 
 h2{
@@ -21,14 +21,13 @@ h2{
     letter-spacing: 6px;
 }
 nav{position:fixed;
- 	left:10%;
+	background; background: url(http://www.photographyblogger.net/wp-content/uploads/2013/04/Thread11.jpg);
  }
 
 .boxone{
 	background-color: #4298f4;
 	color:#42f4d7;
 	text-align: center;
-	vertical-align: 50%;
 	width: 200px;
 	height: 150px;
 	margin: 4em 2em 6em 2em;
