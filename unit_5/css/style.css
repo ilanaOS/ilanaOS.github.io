@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Cantarell:400i|Cinzel:900|Martel:900|Open+Sans');
-
+html{background-color: #c6f2ff;}
 header{text-align: left;
 	font-family:'Cinzel', serif;
   	font-size: 80px;
