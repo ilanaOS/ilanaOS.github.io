@@ -23,6 +23,7 @@ h2{
 nav{position:fixed;
 	background: url(http://www.photographyblogger.net/wp-content/uploads/2013/04/Thread11.jpg);
 	background: cover; 
+	background-repeat: no-repeat;
 	margin:auto;
 	width: 100%;
 }
