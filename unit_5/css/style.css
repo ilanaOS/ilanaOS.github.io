@@ -3,7 +3,7 @@
 header{text-align: left;
 	font-family:'Cinzel', serif;
   	font-size: 80px;
-  	letter-spacing: 2px;
+  	letter-spacing: 2.5px;
   	margin-bottom:5px;
   	color: #8B4513;
 }
@@ -19,14 +19,14 @@ h2{
     margin-top: 0px;
     letter-spacing: 6px;
 }
-
+nav{horizontal-align: center;}
 .boxone{
 	background-color: #4298f4;
 	color:#42f4d7;
 	text-align: center;
 	width: 50px;
 	height: 50px;
-	padding: 4em 2em 6em 2em;
+	margin: 4em 2em 6em 2em;
 	float: left;
 }
 
@@ -37,7 +37,7 @@ h2{
 	float:left;
 	width: 50px;
 	height: 50px;
-	padding: 4em 2em 6em 2em;
+	margin: 4em 2em 6em 2em;
 }
 
 .boxthree{
@@ -47,8 +47,7 @@ h2{
 	float: left;
 	width: 50px;
 	height: 50px;
-	padding: 4em 2em 6em 2em;
-	padding: 4em 2em 6em 2em;
+	margin: 4em 2em 6em 2em;
 }
 a href{
   	text-align: center;}
