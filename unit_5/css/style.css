@@ -8,7 +8,8 @@ header{text-align: left;
   	color: #8B4513;
 }
 
-.banner{background: url(http://www.photographyblogger.net/wp-content/uploads/2013/04/Thread11.jpg)}
+.banner{background: url(http://www.photographyblogger.net/wp-content/uploads/2013/04/Thread11.jpg)
+background-color:#42f4d7;}
 
 h2{
 	color: #8B4513;
@@ -28,7 +29,7 @@ nav{position:fixed;
 	color:#42f4d7;
 	text-align: center;
 	width: 200px;
-	height: 300px;
+	height: 150px;
 	margin: 4em 2em 6em 2em;
 	float: left;
 }
@@ -39,7 +40,7 @@ nav{position:fixed;
 	text-align: center;
 	float:left;
 	width: 200px;
-	height: 300px;
+	height: 150px;
 	margin: 4em 2em 6em 2em;
 }
 
@@ -49,7 +50,7 @@ nav{position:fixed;
 	text-align:center;
 	float: left;
 	width: 200px;
-	height: 300px;
+	height: 150px;
 	margin: 4em 2em 6em 2em;
 }
 a href{
