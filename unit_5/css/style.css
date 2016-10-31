@@ -29,7 +29,7 @@ nav{position:fixed;
 	text-align: center;
 	width: 300px;
 	height: 300px;
-	margin: 150px 150px 200px 150px;
+	margin: 4em 2em 6em 2em;
 	float: left;
 }
 
@@ -40,7 +40,7 @@ nav{position:fixed;
 	float:left;
 	width: 300px;
 	height: 300px;
-	margin: 150px 150px 200px 150px;
+	margin: 4em 2em 6em 2em;
 }
 
 .boxthree{
@@ -48,9 +48,9 @@ nav{position:fixed;
 	color: #1f08b2;
 	text-align:center;
 	float: left;
-    width: 300px;
+	width: 300px;
 	height: 300px;
-	margin: 150px 150px 200px 150px;
+	margin: 4em 2em 6em 2em;
 }
 a href{
   	text-align: center;}
