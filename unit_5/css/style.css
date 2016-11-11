@@ -1,7 +1,9 @@
 @import url('https://fonts.googleapis.com/css?family=Cantarell:400i|Cinzel:900|Roboto:400|Open+Sans');
-html{background-color: #c6f2ff
-;}
-header{text-align: left;
+html{
+	background-color: #c6f2ff;
+}
+header{
+	text-align: left;
 	font-family:'Cinzel', serif;
   	font-size: 80px;
   	letter-spacing: 2.5px;
@@ -21,13 +23,16 @@ h2{
     margin-top: 0px;
     letter-spacing: 6px;
 }
-nav{position:fixed;
-	background: url(http://www.photographyblogger.net/wp-content/uploads/2013/04/Thread11.jpg);
-	background: cover; 
+nav {
+	position:fixed;
+	background-image: url(http://www.photographyblogger.net/wp-content/uploads/2013/04/Thread11.jpg);
+	background-size: cover; 
 	margin:auto;
 	width: 100%;
 	font-family: Roboto;
 	font-size: 20px;
+	vertical-align: top;
+	text-align: center;
 }
 
 .boxone{
@@ -38,6 +43,7 @@ nav{position:fixed;
 	height: 90px;
 	margin: 4em 2em 6em 2em;
 	display: inline-block;
+	vertical-align: top;
 }
 
 .boxtwo{
@@ -48,6 +54,7 @@ nav{position:fixed;
 	width: 180px;
 	height: 90px;
 	margin: 4em 2em 6em 2em;
+	vertical-align: top;
 }
 
 .boxthree{
@@ -58,9 +65,11 @@ nav{position:fixed;
 	width: 180px;
 	height: 90px;
 	margin: 4em 2em 6em 2em;
+	vertical-align: top;
 }
-a href{
-  	text-align: center;}
+a {
+  	text-align: center;
+ }
  
  footer{
  	position:fixed;
@@ -70,4 +79,12 @@ a href{
   	text-align: center;
   	font-size: 32px;
   	color: #1f08b2;
+ }
+
+ .about section {
+
+ }
+
+ nav div {
+ 	
  }
