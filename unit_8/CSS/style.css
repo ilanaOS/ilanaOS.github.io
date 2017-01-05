@@ -1,0 +1,128 @@
+himport url('https://fonts.googleapis.com/css?family=Cantarell:400i|Cinzel:900|Roboto:400|Open+Sans');
+html {background-image: url(https://static.pexels.com/photos/111147/pexels-photo-111147.jpeg);  		
+	background-repeat: no-repeat;
+	background-size:cover;
+	margin:auto;
+}
+
+
+header{
+	text-align: left;
+	font-family:'Cinzel', serif;
+  	font-size: 80px;
+  	letter-spacing: 2.5px;
+  	margin-bottom:5px;
+  	color: #8B4513;
+  }
+
+#banner{background-color:rgba(192,192,192,0.5);
+}
+
+h2{
+	color: #8B4513;
+	text-align: center;
+	font-family:'Cantarell', sans-serif;
+  	font-size: 40px;
+    font-style: italic;
+    margin-top: 0px;
+    letter-spacing: 6px;
+}
+
+nav {
+	position:fixed;
+	background-image: url(https://static.pexels.com/photos/111147/pexels-photo-111147.jpeg)
+	background-size: cover; 
+	margin:auto;
+	width: 100%;
+	font-family: Roboto;
+	font-size: 20px;
+	vertical-align: top;
+	text-align: center;
+	
+}
+
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+
+#right{
+	float:right;
+	list-style: none;
+	text-align: right;
+	margin-right: 300px
+  	border: 1px black solid;
+    padding: 20px;
+    width: 30%;
+
+ 	}
+ 	#Narrator{
+ 	color:#fff;
+ 	padding: 1em;
+ 	}
+ 	#Narrator:hover{
+ 	color:#32673f ;
+ 	}
+	#Plot{ 	color:#fff;
+	padding: 1em;
+ 	border-width: 1em
+ 	border-color: #fff;
+ 	}
+	#Plot:hover{
+ 	color:#32673f ;
+ 	}
+ 	#CD{
+ 	color:#fff;
+ 	padding: 1em;
+ 	border-width: 1em
+ 	border-color: #fff;
+ 	}
+ 	#CD:hover{
+ 	color:#32673f ;
+ 	}
+
+ 	}
+
+
+#left{
+	float: left;
+	width: 10%;
+	font-family:Roboto;
+	padding-right:5px;
+}
+
+
+
+
+a{
+  	text-align: right;
+	color:#fff;
+}
+
+a:hover{
+	color:#32673f;
+}
+
+a:activate{
+	color:#8B4513;
+}
+ footer{
+ 	position:fixed;
+ 	right:5px;
+ 	bottom:5%;
+ 	font-family: Roboto;
+  	text-align: right;
+  	font-size: 20px;
+ }
+
+ .about section {
+
+ }
+
+ nav div {
+ 	
+ }
